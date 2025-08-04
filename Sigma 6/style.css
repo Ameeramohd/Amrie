@@ -1,0 +1,48 @@
+body
+{background-color: rgb(255, 248, 237);
+    
+    .title{
+        background-color: rgb(139, 93, 7);
+        color: rgb(240, 228, 216);
+        padding: 2px 10px;
+       border-radius:  8px;
+.img-box {
+    display: flex;
+    justify-content: center;
+    align-items: center
+  
+  
+  }
+
+}
+.subtitle {
+    background-color: rgb(146, 109, 59);
+    color: rgb(240, 232, 221);
+    padding: 5px 15px;
+    border-radius: 8px;
+}
+.subheading {
+    background-color: antiquewhite;
+    padding: 1px 6px;
+    border-radius: 4px;
+
+}
+.heading {
+    background-color: rgb(221, 190, 152);
+    color: rgb(70, 43, 9);
+    padding: 1px 4px;
+    border-radius: 3px;
+}
+h1,h2 {
+    text-align: center;
+}
+.img-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    
+}
+
+    }
+    
